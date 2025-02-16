@@ -1,4 +1,4 @@
-# 🎨 Portfolio 2D - MGMD Jassim
+# 🎨 Portfolio - Mougamadou Jassim
 
 Bienvenue sur mon **Portfolio 2D interactif**, développé avec **Kaboom.js** et **Vite**. Ce projet présente mes compétences et expériences de manière originale avec une approche dynamique et immersive. 🚀
 
