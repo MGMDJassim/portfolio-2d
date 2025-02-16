@@ -17,8 +17,8 @@ Si vous souhaitez exécuter ce projet en local, suivez ces étapes :
 
 ### 1️⃣ Cloner le dépôt
 ```bash
-git clone https://github.com/MGMDJassim/2D-Portfolio.git
-cd 2D-Portfolio
+git clone https://github.com/MGMDJassim/portfolio-2d.git
+cd portfolio-2d
 ```
 
 ### 2️⃣ Installer les dépendances
